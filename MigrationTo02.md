@@ -1,0 +1,1 @@
+The information that was here has been moved to the new [migration document](http://koti.kapsi.fi/jpa/nanopb/docs/migration.html).
